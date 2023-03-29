@@ -1,4 +1,4 @@
-<a href="url"><img src="https://ddhh.unq.edu.ar/wp-content/uploads/2017/04/Logo-UNQ-RGB.png" height="75"></a>
+<a href="url"><img src="https://i0.wp.com/www.udual.org/principal/wp-content/uploads/2022/02/logo-unq-1024x385-1.png?ssl=1" height="85"></a>
 
 # SobreFelicidad
 Tesis de la Maestría en Filosofía Política UnQui
