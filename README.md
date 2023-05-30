@@ -1,6 +1,6 @@
 <a href="url"><img src="https://i0.wp.com/www.udual.org/principal/wp-content/uploads/2022/02/logo-unq-1024x385-1.png?ssl=1" height="85"></a>
 
-# SobreFelicidad
+# Sobre Felicidad
 Tesis de la Maestría en Filosofía Política UnQui
 
 ## Resumen
