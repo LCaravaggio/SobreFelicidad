@@ -1,6 +1,6 @@
 <a href="url"><img src="https://i0.wp.com/www.udual.org/principal/wp-content/uploads/2022/02/logo-unq-1024x385-1.png?ssl=1" height="85"></a>
 
-# Sobre Felicidad
+# Sobre Felicidad. Necesidad de encuentro entre el enfoque de las capacidades y el enfoque de la felicidad
 Tesis de la Maestría en Filosofía Política UnQui
 
 ## Resumen
@@ -8,3 +8,13 @@ Esta tesis se propone analizar el potencial conflicto entre libertad y felicidad
 
 ## Estado
 La tesis fue defendida en acto público el día miércoles 31 de mayo de 2023 en la Universidad Nacional de Quilmes y obtuvo la nota máxima (diez).
+
+## How to cite
+```
+@MastersThesis{Caravaggio2023,
+  author = {Leonardo A. Caravaggio},
+  school = {Universidad Nacional de Quilmes},
+  title  = {Sobre Felicidad. Necesidad de encuentro entre el enfoque de las capacidades y el enfoque de la felicidad},
+  year   = {2023},
+}
+```
