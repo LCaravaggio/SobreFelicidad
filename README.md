@@ -1,6 +1,6 @@
 <a href="url"><img src="https://i0.wp.com/www.udual.org/principal/wp-content/uploads/2022/02/logo-unq-1024x385-1.png?ssl=1" height="85"></a>
 
-# Sobre Felicidad. Necesidad de encuentro entre el enfoque de las capacidades y el enfoque de la felicidad
+# Felicidad y Capacidades. Necesidad de encuentro entre el enfoque de la felicidad y el enfoque de las capacidades
 Tesis de la Maestría en Filosofía de la Universidad Nacional de Quilmes (orientación Filosofía Política).
 
 ## Resumen
@@ -14,7 +14,7 @@ La tesis fue defendida en acto público el día miércoles 31 de mayo de 2023 en
 @MastersThesis{Caravaggio2023,
   author = {Leonardo A. Caravaggio},
   school = {Universidad Nacional de Quilmes},
-  title  = {Sobre Felicidad. Necesidad de encuentro entre el enfoque de las capacidades y el enfoque de la felicidad},
+  title  = {Felicidad y Capacidades. Necesidad de encuentro entre el enfoque de la felicidad y el enfoque de las capacidades},
   year   = {2023},
 }
 ```
