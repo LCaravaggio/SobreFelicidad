@@ -9,6 +9,8 @@ Esta tesis se propone analizar el potencial conflicto entre libertad y felicidad
 ## Estado
 La tesis fue defendida en acto público el día miércoles 31 de mayo de 2023 en la Universidad Nacional de Quilmes y obtuvo la nota máxima (diez).
 
+La misma puede ser consultada en el respositorio institucional: https://ridaa.unq.edu.ar/handle/20.500.11807/3988
+
 ## How to cite
 ```
 @MastersThesis{Caravaggio2023,
