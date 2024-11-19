@@ -1,4 +1,4 @@
-<a href="url"><img src="https://i0.wp.com/www.udual.org/principal/wp-content/uploads/2022/02/logo-unq-1024x385-1.png?ssl=1" height="85"></a>
+<a href="url"><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Logo_unqui.png" height="85"></a>
 
 # Felicidad y Capacidades. Necesidad de encuentro entre el enfoque de la felicidad y el enfoque de las capacidades
 Tesis de la Maestría en Filosofía de la Universidad Nacional de Quilmes (orientación Filosofía Política).
